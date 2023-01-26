@@ -5,4 +5,10 @@ class test1
 {
 // test file
 }
+
+public void test2()
+{
+// test file
+}
+
 }
